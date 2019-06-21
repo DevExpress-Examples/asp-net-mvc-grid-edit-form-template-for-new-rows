@@ -8,6 +8,9 @@
 * [Index.cshtml](./CS/Sample/Views/Home/Index.cshtml)
 <!-- default file list end -->
 # GridView - How to specify an EditForm template only when adding a new row
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t223758)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to specify a grid's EditForm template only when adding a new row and leave the default template when editing a row. Perform the following steps to accomplish this task:</p>
