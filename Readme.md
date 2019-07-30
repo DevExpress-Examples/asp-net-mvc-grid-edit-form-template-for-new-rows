@@ -9,7 +9,7 @@
 <!-- default file list end -->
 # GridView - How to specify an EditForm template only when adding a new row
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t223758)**
+**[[Run Online]](https://codecentral.devexpress.com/t223758/)**
 <!-- run online end -->
 
 
