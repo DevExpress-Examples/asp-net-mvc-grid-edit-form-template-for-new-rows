@@ -14,7 +14,7 @@
 
 
 <p>This example illustrates how to specify a grid's EditForm template only when adding a new row and leave the default template when editing a row. Perform the following steps to accomplish this task:</p>
-<p>1. Handle the <a href="https://documentation.devexpress.com/#AspNet/DevExpressWebMVCScriptsMVCxClientGridView_BeginCallbacktopic">MVCxClientGridView.BeginCallback</a> event to determine which mode the grid will be in after a callback:</p>
+<p>1. Handle the <a href="https://docs.devexpress.com/AspNetMvc/js-MVCxClientGridView.PerformCallback(data)">MVCxClientGridView.BeginCallback</a> event to determine which mode the grid will be in after a callback:</p>
 
 
 ```js
