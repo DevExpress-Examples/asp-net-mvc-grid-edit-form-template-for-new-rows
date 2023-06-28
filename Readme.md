@@ -9,10 +9,10 @@ This example demonstrates how to specify the grid's edit form template for ne
 
 ## Overview
 
-Handle the grid's server-side [BeginCallback](https://docs.devexpress.com/AspNetMvc/js-MVCxClientGridView.PerformCallback(data)) event to determine the grid's edit mode after a callback.
+Handle the grid's client-side [BeginCallback](https://docs.devexpress.com/AspNetMvc/js-MVCxClientGridView.PerformCallback(data)) event to determine the grid's edit mode after a callback.
 
 ```js
-    function OnBeginCallback(s, e) {
+function OnBeginCallback(s, e) {
     var isNewRowNow = s.IsNewRowEditing();
     var isSwitchToNewRow = (e.command == 'ADDNEWROW');
     var IsCancelEdit = (e.command == 'CANCELEDIT');
@@ -23,7 +23,6 @@ Handle the grid's server-side [BeginCallback](https://docs.devexpress.com/AspNet
 ```
 
 Process the received value in the Controller and use the ViewBag mechanism to pass the value to the View.
-
 
 ```cs
 [HttpPost, ValidateInput(false)]
