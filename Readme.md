@@ -1,6 +1,6 @@
 # Grid View for ASP.NET MVC - How to create a custom edit form for new rows
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t223758/)**
+**[[Run Online]](https://codecentral.devexpress.com/128550700/)**
 <!-- run online end -->
 
 This example demonstrates how to specify the grid's edit form template for newly inserted rows.
