@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET MVC - How to create a custom edit form for new rows
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128550700/)**
-<!-- run online end -->
 
 This example demonstrates how to specify the grid's edit form template for newly inserted rows.
 
